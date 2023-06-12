@@ -1,1 +1,18 @@
-ls -la
+total 44
+drwxr-xr-x 2 root root 330 Jun 12 04:32 .
+drwxr-xr-x 6 root root 121 Jun 12 02:31 ..
+-rwxr--r-- 1 root root  32 Jun 12 02:37 0-hello_world
+-rw-r--r-- 1 root root   0 Jun 12 04:19 0-mac_and_cheese
+-rwxr--r-- 1 root root  28 Jun 12 02:42 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jun 12 02:45 2-hellofile
+-rwxr--r-- 1 root root  39 Jun 12 02:47 3-twofiles
+-rwxr--r-- 1 root root  35 Jun 12 02:51 4-lastlines
+-rwxr--r-- 1 root root  35 Jun 12 02:53 5-firstlines
+-rwxr--r-- 1 root root  40 Jun 12 02:57 6-third_line
+-rwxr--r-- 1 root root 263 Jun 12 04:19 7-file
+-rw-r--r-- 1 root root   0 Jun 12 04:19 7-file~
+-rwxr--r-- 1 root root  36 Jun 12 04:32 8-cwd_state
+-rw-r--r-- 1 root root  12 Jun 12 04:20 \*\\'"Best School"\'\\\*$\\?\\*\\*\\*\\*\\*\:\)
+-rw-r--r-- 1 root root   0 Jun 12 04:32 ls_cwd_content
+-rw-r--r-- 1 root root   0 Jun 12 04:19 Makefile
+-rw-r--r-- 1 root root  55 Jun 12 02:35 README.md
